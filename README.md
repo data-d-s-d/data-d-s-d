@@ -1,7 +1,5 @@
 ### Hello there! 😁
 
-<!--
-**data-d-s-d/data-d-s-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Im Diego and I'm a Data analyst. I live in Argentina, and fairly recently discovered Data analysis as a discipline. I have been wanting a change in my profesional career, and (luckily for me) the more i learned, the more i loved it!! 😋
 
