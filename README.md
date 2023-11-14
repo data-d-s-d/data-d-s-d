@@ -1,7 +1,7 @@
 ### Hello there! 😁
 
 
-Im Diego and I'm a Data analyst, currently living in Argentina.
+Im Diego and I'm a Data Scientist, currently living in Argentina.
 
 I will be sharing mainly my code in SQL and Python 🐍
 
